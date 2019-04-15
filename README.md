@@ -1,7 +1,7 @@
 # pokemon
 
 A new Flutter project.
-#### To run this app type flutter run
+#### To run this app type "flutter run"
 ## Getting Started
 
 This project is a starting point for a Flutter application.
